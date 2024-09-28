@@ -1,0 +1,32 @@
+{
+    "name": "dsa",
+    "subtitle": "dsa",
+    "description": "dsa",
+    "iconURL": "",
+    "headerURL": "",
+    "website": "",
+    "tintColor": "",
+    "featuredApps": [
+        "com.example.dsa"
+    ],
+    "apps": [
+        {
+            "name": "dsa",
+            "bundleIdentifier": "com.example.dsa",
+            "developerName": "das",
+            "subtitle": "dsa",
+            "localizedDescription": "das",
+            "iconURL": "",
+            "tintColor": "",
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2024-01-01T00:00:00-08:00",
+                    "downloadURL": "https://archive.org/download/charlie-the-steak-ios-and-ipad/iOS/Cracked/64-bit/iOS%207.0%2B/Charlie%2C%20the%20Steak%201.2%20644918861-838598092.ipa",
+                    "localizedDescription": "Latest version."
+                }
+            ]
+        }
+    ],
+    "news": []
+}
